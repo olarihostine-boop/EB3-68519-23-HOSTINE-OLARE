@@ -1,6 +1,6 @@
 // HOSTINE OLARE
 // EB3/68519/23
-// C++
+// C+
 #include <iostream>
 using namespace std;
 
@@ -47,4 +47,5 @@ int main() {
     }
     
     return 0;
+
 }
