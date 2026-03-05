@@ -52,6 +52,7 @@ Disadvantages:
 •	Not stable (may change the relative order of equal elements)
 •	Always takes O(n²) time regardless of the initial order
 File Structure
-•	selection_sort.cpp - Main source code file containing the implementation
+•	selectionsortascending.cpp - Main source code file containing the implementation in ascending order
+•	selectionsortdescending.cpp - Main source code file containing the implementation in descending order
 •	README.md - This documentation file
 
